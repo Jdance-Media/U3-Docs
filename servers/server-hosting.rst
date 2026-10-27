@@ -210,6 +210,7 @@ Get started by adding a :ref:`Game Server Login Token <doc_servers_gslt>` (GSLT)
 .. This section has been reworked due to servers now operating using SDR on just server codes alone.
 
 For an Internet server, you must configure **any** of the following:
+
 - :ref:`Game Server Login Token <doc_servers_gslt>` (GSLT) and share a persistent :ref:`Server Code <doc_servers_server_codes>`.
 - :ref:`Fake IP <doc_servers_fake_ip>`.
 - :ref:`Port Forwarding <doc_servers_port_forward>`
